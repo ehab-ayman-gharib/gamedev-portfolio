@@ -4,8 +4,8 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>Ehab Ayman</strong>, Lead Game Developer at 5DVR, a Former technical lead and a Co-Founder at EpicVR.
-        Tech Enthusiast with more than 6 years experience in VR/AR & game Development, <br/>
+        I'm <strong>Ehab Ayman</strong>, Lead Game Developer at <router-link to="https://5d-vr.com/">5DVR</router-link>, a Former technical lead and a Co-Founder at EpicVR.<br/>
+        Tech Enthusiast with more than 6 years experience in VR/AR & game Development, 
       </div>
 
       <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
