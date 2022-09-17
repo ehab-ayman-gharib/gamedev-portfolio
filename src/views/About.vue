@@ -4,8 +4,8 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Ehab Ayman</strong>, Lead Game Developer at 5DVR, a Former technical lead and a Co-Founder at EpicVR.
+        Tech Enthusiast with more than 6 years experience in VR/AR & game Development, <br/>
       </div>
 
       <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
